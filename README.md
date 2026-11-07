@@ -32,3 +32,4 @@ java -cp out snakegame.SnakeGame
 - Arrow keys: move the snake
 - ENTER: restart after game over
 
+Built through a collaborative process between human engineering and artificial intelligence
